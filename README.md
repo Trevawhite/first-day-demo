@@ -1,1 +1,1 @@
-# first-day-promo
+# first-day-demo
